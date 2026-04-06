@@ -2,6 +2,10 @@
 Puzzle game using Swing GUI and 2D graphics
 
 
+Re-Factored into HTMl for viewability & playability in browser !! view other repo for it
+
+
+
 program implements the puzzle game using Swing GUI and 2D graphics.
 
 user is presented with a 3x3 grid of cells, each either on (yellow) or off (dark gray).
